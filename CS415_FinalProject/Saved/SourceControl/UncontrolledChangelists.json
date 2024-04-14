@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/yuliearad/Documents/Unreal Projects/UE5-The_Forestaurant/CS415_FinalProject/Content/UI/StartScreen.uasset",
+				"/Users/yuliearad/Documents/Unreal Projects/UE5-The_Forestaurant/CS415_FinalProject/Content/UI/EndGameScreen.uasset",
+				"/Users/yuliearad/Documents/Unreal Projects/UE5-The_Forestaurant/CS415_FinalProject/Content/UI/NextLevelScreen.uasset",
+				"/Users/yuliearad/Documents/Unreal Projects/UE5-The_Forestaurant/CS415_FinalProject/Content/UI/WinScreen.uasset",
+				"/Users/yuliearad/Documents/Unreal Projects/UE5-The_Forestaurant/CS415_FinalProject/Content/Characters/Customers/RegCustomer.uasset",
+				"/Users/yuliearad/Documents/Unreal Projects/UE5-The_Forestaurant/CS415_FinalProject/Content/Characters/Customers/RegMonster.uasset",
+				"/Users/yuliearad/Documents/Unreal Projects/UE5-The_Forestaurant/CS415_FinalProject/Content/Characters/Customers/ExtremeMonster.uasset",
+				"/Users/yuliearad/Documents/Unreal Projects/UE5-The_Forestaurant/CS415_FinalProject/Content/UI/PauseScreen.uasset"
+			]
+		}
+	]
+}
